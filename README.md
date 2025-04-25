@@ -1,1 +1,1 @@
-# Deep-learn_atol
+derin öğrenme atölyesi 
